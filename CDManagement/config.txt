@@ -1,0 +1,4 @@
+File of CDFile: CD.txt
+File of CDTypeFile: CDType.txt
+File of CollectionPartialFile:  CDCollectionPartial.txt
+File of CDPartialFile:  CDPartial.txt
